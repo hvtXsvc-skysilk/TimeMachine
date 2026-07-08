@@ -1,0 +1,10 @@
+D:\C#解决方案与.cs\TimeMachine\bin\Debug\TimeMachine.exe.config
+D:\C#解决方案与.cs\TimeMachine\bin\Debug\TimeMachine.exe
+D:\C#解决方案与.cs\TimeMachine\bin\Debug\TimeMachine.pdb
+D:\C#解决方案与.cs\TimeMachine\obj\Debug\TimeMachine.csproj.AssemblyReference.cache
+D:\C#解决方案与.cs\TimeMachine\obj\Debug\TimeMachine.Form1.resources
+D:\C#解决方案与.cs\TimeMachine\obj\Debug\TimeMachine.Properties.Resources.resources
+D:\C#解决方案与.cs\TimeMachine\obj\Debug\TimeMachine.csproj.GenerateResource.cache
+D:\C#解决方案与.cs\TimeMachine\obj\Debug\TimeMachine.csproj.CoreCompileInputs.cache
+D:\C#解决方案与.cs\TimeMachine\obj\Debug\TimeMachine.exe
+D:\C#解决方案与.cs\TimeMachine\obj\Debug\TimeMachine.pdb
